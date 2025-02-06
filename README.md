@@ -4,7 +4,7 @@ Welcome to this **Quantum Resources** repository! This repository is a collectio
 
 ## 📚 About
 
-This repository contains documents, notes, and study materials compiled during my **Master's in Quantum Information Technology** at the University of Gdansk. The goal is to provide accessible, high-quality resources to help others learn, collaborate, and grow in the field of quantum sciences.
+This repository contains documents, notes, and study materials produced during my **Master's in Quantum Information Technology** at the **University of Gdansk**. The goal is to provide accessible, high-quality resources to help others learn, collaborate, and grow in the field of quantum sciences.
 
 ## 🚀 Topics Covered
 - **Quantum Mechanics Fundamentals**
