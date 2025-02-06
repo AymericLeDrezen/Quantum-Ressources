@@ -11,7 +11,7 @@ This repository contains documents, notes, and study materials compiled during m
 - **Quantum Information Theory**
 - **Quantum Computing Principles**
 - **Quantum Cryptography**
-- **Quantum Algorithms (e.g., Shor's Algorithm, Grover's Algorithm)**
+- **Quantum Algorithms**
 - **Quantum Error Correction**
 
 ## 📜 License
